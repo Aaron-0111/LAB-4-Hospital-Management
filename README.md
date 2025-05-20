@@ -5,7 +5,7 @@ To develop the Hospital management System using Star UML tool.
 It is very imporatant to maintain efficient software to handle information of a hospital.
 This application provides a way to record this information and to access these in a simple way.
 
-### UML DIAGRAMS:
+### UML DIAGRAMS: 
 ### USE CASE:
 ![image](https://github.com/user-attachments/assets/dc2f8d1e-788f-4ead-9f32-44c6ce228ea6)
 
